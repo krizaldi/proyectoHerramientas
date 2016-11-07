@@ -72,7 +72,7 @@ public class VistaPrincipal extends JFrame {
 		menuBar.setBackground(new Color(157, 34, 53));
 		menuBar.setBounds(0, 0, 538, 21);
 		contentPane.add(menuBar);
-		
+		//ejemplo de edicion
 		mntmLogin = new JMenuItem("Login");
 		mntmLogin.setForeground(Color.WHITE);
 		mntmLogin.setBackground(new Color(157, 34, 53));
